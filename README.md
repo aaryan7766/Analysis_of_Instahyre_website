@@ -5,7 +5,7 @@
 In today's fast-paced world, where the job market is constantly evolving, finding the right job or the perfect candidate for a vacant position can be a daunting task.
 For this "Analysis_of-Instahyre" project helps us to under which are the highest demanding technical or non-technical Skills, in which location companies are hiring which types of comapnies are hiring.
 
-## Data Describe
+## Data Description
 ---
 
 - we have two dataset which are company data and jobs data in which there are 10 columns in job dataset and 8 cloumns.
