@@ -1,4 +1,4 @@
-# Analysis_of-Instahyre_website
+
 ----Introduction----
 
 In today's fast-paced world, where the job market is constantly evolving, finding the right job or the perfect candidate for a vacant position can be a daunting task.
@@ -34,7 +34,16 @@ For this "Analysis_of-Instahyre" project helps us to under which are the highest
 
  ![image](https://github.com/aaryan7766/Analysis_of_Instahyre_website/assets/98702994/4f358821-2aca-4ff9-b39d-fc18b983ed1f)
 
- ![image](https://github.com/aaryan7766/Analysis_of_Instahyre_website/assets/98702994/2312d358-fb7a-49c5-88de-71603dd1fb19)
+
+ ------Dashboard-----
+
+ We have also create a interactive Dashboard in which we shows some key points which are total numbers of opening,
+ total number of company , total numbers of cities and how many opening for data analyst.
+
+ ![image](https://github.com/aaryan7766/Analysis_of_Instahyre_website/assets/98702994/beca399e-e610-4b4f-b82c-e17db5e6916a)
+
+
+ 
 
 
 
