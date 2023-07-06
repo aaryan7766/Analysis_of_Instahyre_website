@@ -67,7 +67,13 @@ With the growing number of job opportunities available on the internet, it can b
 -  The demand for tech talent is expected to increase as more companies continue to digitize their operations and expand their online presence.
 
 
-
+## Challenges Faced
+---
+- Data Scrapping and uses of BeautifulSoup and Selenium
+- Data Cleaning such as fill null value with sutiable values
+- Data Modeling in Sql
+- Adding KPI's in the Excel-Dashboard
+  
 
 
 
